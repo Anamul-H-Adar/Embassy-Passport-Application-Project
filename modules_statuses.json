@@ -1,0 +1,9 @@
+{
+    "Admin": true,
+    "Accounts": true,
+    "Settings": true,
+    "Setup": true,
+    "Reports": true,
+    "ChartOfAccounts": true,
+    "Loans": true
+}
